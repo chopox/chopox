@@ -1,8 +1,6 @@
-Hola, mi nombre es Daniel García 👋
-
 ### SysAdmin & Web Developer
 
-Soy estudiante del Grado Superior de Administración de Sistemas Informáticos en Red con una fuerte inclinación por la ciberseguridad y el desarrollo front-end. Mi interés por las nuevas tecnologías me ha llevado a profundizar en áreas clave como la configuración de hardware, la divulgación de cultura preventiva ante amenazas y la ciberinteligencia.
+Hola, mi nombre es Daniel García 👋. Soy estudiante del Grado Superior de Administración de Sistemas Informáticos en Red con una fuerte inclinación por la ciberseguridad y el desarrollo front-end. Mi interés por las nuevas tecnologías me ha llevado a profundizar en áreas clave como la configuración de hardware, la divulgación de cultura preventiva ante amenazas y la ciberinteligencia.
 
 Además, mi experiencia como Técnico en Emergencias Sanitarias me ha permitido desarrollar habilidades como el uso estricto de protocolos, la toma de decisiones efectivas bajo situaciones de estrés y el trato asertivo con pacientes y la dotación de la unidad asistencial.
 
