@@ -12,10 +12,10 @@ En la etapa actual de mi formación, me encuentro en búsqueda activa de oportun
 
 
 ## Mi formación:
-- `Grado Superior de Administración de Sistemas Informáticos en Red`
-- `CCNA: Introducción a las Redes`
-- `Ciberseguridad en el Ámbito Judicial`
-- `Ciberseguridad en el Teletrabajo`
+- `Grado Superior de Administración de Sistemas Informáticos en Red (EN PROCESO).`
+- `CCNA: Introducción a las Redes (EN PROCESO).`
+- `Ciberseguridad en el Ámbito Judicial.`
+- `Ciberseguridad en el Teletrabajo.`
 
 
 ## Encuéntrame en:
