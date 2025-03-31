@@ -1,6 +1,6 @@
 Hola, mi nombre es Daniel García 👋
 
-### Cyberintelligence & Web Developer
+### Cybersecurity & Web Developer
 
 Soy estudiante del Grado Superior de Administración de Sistemas Informáticos en Red con una fuerte inclinación por la ciberseguridad y el desarrollo front-end. Mi interés por las nuevas tecnologías me ha llevado a profundizar en áreas clave como la configuración de hardware, la divulgación de cultura preventiva ante amenazas y la ciberinteligencia.
 
@@ -12,9 +12,10 @@ En la etapa actual de mi formación, me encuentro en búsqueda activa de oportun
 
 
 ## Mi formación:
-> Grado Superior de Administración de Sistemas Informáticos en Red
-> Ciberseguridad en el Ámbito Judicial
-> Ciberseguridad en el Teletrabajo
+`Grado Superior de Administración de Sistemas Informáticos en Red`
+`CCNA: Introducción a las Redes`
+`Ciberseguridad en el Ámbito Judicial`
+`Ciberseguridad en el Teletrabajo`
 
 
 ## Encuéntrame en:
@@ -24,11 +25,11 @@ En la etapa actual de mi formación, me encuentro en búsqueda activa de oportun
 
 ## Contacto y apoyo:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/mouredev)
+[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/XXXXXXXXXXXXXXX)
 </br>
-[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:braismoure@mouredev.com)
+[![Email](https://img.shields.io/badge/braismoure@mouredev.com-email_personal_(respuesta_lenta)-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=101010)](mailto:josedanielgarciamoreno@outlook.com)
 </br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/mouredev)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/XXXXXXXXXXX)
 
 <!--
 **chopox/chopox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
