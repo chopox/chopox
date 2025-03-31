@@ -19,7 +19,7 @@ En la etapa actual de mi formación, me encuentro en búsqueda activa de oportun
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Brais_Moure-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010)](https://www.linkedin.com/in/josedanielgarciamoreno)
+[![LinkedIn](https://img.shields.io/badge/any_text-LinkedIn-blue)](https://www.linkedin.com/in/josedanielgarciamoreno)
 
 
 ## Contacto y apoyo:
