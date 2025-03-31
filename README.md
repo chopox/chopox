@@ -1,6 +1,6 @@
 Hola, mi nombre es Daniel García 👋
 
-### Cybersecurity & Web Developer
+### SysAdmin & Web Developer
 
 Soy estudiante del Grado Superior de Administración de Sistemas Informáticos en Red con una fuerte inclinación por la ciberseguridad y el desarrollo front-end. Mi interés por las nuevas tecnologías me ha llevado a profundizar en áreas clave como la configuración de hardware, la divulgación de cultura preventiva ante amenazas y la ciberinteligencia.
 
