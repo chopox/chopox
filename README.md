@@ -19,7 +19,7 @@ En la etapa actual de mi formación, me encuentro en búsqueda activa de oportun
 
 ## Encuéntrame en:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josedanielgarciamoreno)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josedanielgarciamoreno)
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](mailto:josedanielgarciamoreno@outlook.com)
 
 <!--
