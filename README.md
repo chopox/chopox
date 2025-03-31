@@ -16,6 +16,7 @@ En la etapa actual de mi formación, me encuentro en búsqueda activa de oportun
 - `CCNA: Introducción a las Redes (EN PROCESO).`
 - `Ciberseguridad en el Ámbito Judicial.`
 - `Ciberseguridad en el Teletrabajo.`
+- `Estudiante de 42 Málaga.`
 
 
 ## Encuéntrame en:
