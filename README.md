@@ -1,7 +1,7 @@
-## Hi, I'm Dani Garcia 👋
+## Hi, I'm Daniel Garcia 👋
 ### SysAdmin & Web Developer
 
-Currently studying a Higher Vocational Training Diploma in SysAdmin, with a strong interest in cybersecurity and front-end development. My passion for new technologies has led me to explore key areas such as hardware configuration, promoting a preventive security culture, and cyber intelligence.
+Currently enrolled in a higher education technical programme in System Administration, with a strong interest in cybersecurity and front-end development. My passion for new technologies has led me to explore key areas such as hardware configuration, promoting a preventive security culture, and cyber intelligence.
 
 In addition, my background as an Emergency Medical Technician has helped me develop key skills such as strict adherence to protocols, effective decision-making under pressure, and clear, empathetic communication with both patients and medical teams.
 
@@ -14,7 +14,7 @@ At this stage in my training, I’m actively looking for job opportunities that 
 - `CCNA: Introduction to Networks (IN PROGRESS)`
 - `IT Security in the Judicial Environment`
 - `Cybersecurity for Remote Work`
-- `42 Malaga Bootcamp`
+- `42 The Network Bootcamp`
 
 ## 🌐 You can reach me via:
 
