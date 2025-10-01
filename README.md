@@ -1,32 +1,30 @@
-## Hola, mi nombre es Daniel García 👋
+## Hi, I'm Dani Garcia 👋
 ### SysAdmin & Web Developer
 
-Soy estudiante del Grado Superior de Administración de Sistemas Informáticos en Red con una fuerte inclinación por la ciberseguridad y el desarrollo front-end. Mi interés por las nuevas tecnologías me ha llevado a profundizar en áreas clave como la configuración de hardware, la divulgación de cultura preventiva ante amenazas y la ciberinteligencia.
+Currently studying a Higher Vocational Training Diploma in SysAdmin, with a strong interest in cybersecurity and front-end development. My passion for new technologies has led me to explore key areas such as hardware configuration, promoting a preventive security culture, and cyber intelligence.
 
-Además, mi experiencia como Técnico en Emergencias Sanitarias me ha permitido desarrollar habilidades como el uso estricto de protocolos, la toma de decisiones efectivas bajo situaciones de estrés y el trato asertivo con pacientes y la dotación de la unidad asistencial.
+In addition, my background as an Emergency Medical Technician has helped me develop key skills such as strict adherence to protocols, effective decision-making under pressure, and clear, empathetic communication with both patients and medical teams.
 
-Por otro lado, he obtenido una perspectiva única como voluntario de Protección Civil acerca de la importancia del trabajo en equipo, la disciplina jerárquica y la gestión de situaciones complejas en la planificación y la coordinación de dispositivos preventivos y emergencias.
+I've also gained a unique perspective through my volunteer work with Civil Protection, where I’ve learned the value of teamwork, hierarchical discipline, and managing complex scenarios in the planning and coordination of preventive and emergency operations.
 
-En la etapa actual de mi formación, me encuentro en búsqueda activa de oportunidades laborales que me permitan ampliar mis conocimientos técnicos y desarrollar una carrera sólida en el sector de las IT.
+At this stage in my training, I’m actively looking for job opportunities that will allow me to expand my technical knowledge and build a strong career in the IT sector.
 
+## 📚 My Education:
+- `Higher Vocational Training Diploma in Networked Computer Systems Administration (IN PROGRESS)`
+- `CCNA: Introduction to Networks (IN PROGRESS)`
+- `IT Security in the Judicial Environment`
+- `Cybersecurity for Remote Work`
+- `42 Malaga Bootcamp`
 
-## 📚 Mi formación:
-- `Grado Superior de Administración de Sistemas Informáticos en Red (EN PROCESO).`
-- `CCNA: Introducción a las Redes (EN PROCESO).`
-- `Seguridad Informática en el Ámbito Judicial.`
-- `Ciberseguridad en el Teletrabajo.`
-- `Bootcamp de 42 Málaga.`
-
-
-## 🌐 Puedes contactarme por:
+## 🌐 You can reach me via:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josedanielgarciamoreno)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josedanielgarciamoreno@outlook.com)
 
 <!--
-## Contacto y apoyo:
+## Contact & Support:
 
-[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-MENSAJE+CAFÉ_(RESPUESTA_RÁPIDA)_Gracias!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/XXXXXXXXXXXXXXX)
+[![MyPublicInbox](https://img.shields.io/badge/MyPublicInbox-SEND+A+COFFEE_(QUICK+REPLY)_Thank+you!-orange?style=for-the-badge&logo=Microsoft+Outlook&logoColor=white&labelColor=101010)](https://mypublicinbox.com/XXXXXXXXXXXXXXX)
 </br>
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-apoya_mi_trabajo-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/XXXXXXXXXXX)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-support_my_work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white&labelColor=101010)](https://www.buymeacoffee.com/XXXXXXXXXXX)
 -->
