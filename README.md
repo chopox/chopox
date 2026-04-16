@@ -1,20 +1,20 @@
 ## Hi, I'm Daniel Garcia 👋
 ### SysAdmin & Web Developer
 
-Currently enrolled in a higher education technical programme in System Administration, with a strong interest in cybersecurity and front-end development. My passion for new technologies has led me to explore key areas such as hardware configuration, promoting a preventive security culture, and cyber intelligence.
+Currently enrolled in a SysAdmin training, with a strong interest in cybersecurity and front-end development. My passion for new technologies has led me to explore key areas such as hardware configuration, promoting a preventive security culture and cyber intelligence.
 
-In addition, my background as an Emergency Medical Technician has helped me develop key skills such as strict adherence to protocols, effective decision-making under pressure, and clear, empathetic communication with both patients and medical teams.
+In addition, my background as an Emergency Medical Technician has helped me develop key skills such as strict adherence to protocols, effective decision-making under pressure and clear, empathetic communication with both patients and medical teams.
 
-I've also gained a unique perspective through my volunteer work with Civil Protection, where I’ve learned the value of teamwork, hierarchical discipline, and managing complex scenarios in the planning and coordination of preventive and emergency operations.
+I've also gained a unique perspective through my volunteer work with Civil Protection, where I’ve learned the value of teamwork, hierarchical discipline and managing complex scenarios in the planning and coordination of preventive and emergency operations.
 
 At this stage in my training, I’m actively looking for job opportunities that will allow me to expand my technical knowledge and build a strong career in the IT sector.
 
 ## 📚 My Education:
-- `Higher Vocational Training Diploma in Networked Computer Systems Administration (IN PROGRESS)`
+- `Higher Vocational Training in Network Systems Administration (IN PROGRESS)`
 - `CCNA: Introduction to Networks (IN PROGRESS)`
 - `IT Security in the Judicial Environment`
 - `Cybersecurity for Remote Work`
-- `42 The Network Bootcamp`
+- `42 The Network - Piscine & Cursus`
 
 ## 🌐 You can reach me via:
 
